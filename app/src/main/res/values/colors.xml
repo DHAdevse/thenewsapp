@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#459DE4</color>
+    <color name="my_navy_blue">#000080</color>
+    <color name="red">#FF0000</color>
+    <color name="brown_dark">#8B4513</color>
+    <color name="brown_dark_shade">#A52A2A</color>
+    <color name="brown_red">#800000</color>
+    <color name="brown_wood">#92603E</color>
+    <color name="brown_coffee">#6F4E37</color>
+    <color name="brown_yellow">#CC9966</color>
+    <color name="brown_dark_light">#B87333</color>
+    <color name="brown_light">#D2B48C</color>
+    <color name="brown_earth">#6B4423</color>
+    <color name="brown_moss">#76608A</color>
+</resources>
